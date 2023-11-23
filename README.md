@@ -5,7 +5,7 @@
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/chaho_lololol">
+    <a href="https://www.instagram.com/chan_holololol">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
     <a href="mailto:chanho680526@gmail.com">
