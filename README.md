@@ -11,7 +11,7 @@
     <a href="mailto:chanho680526@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-    <a href="https://www.notion.so/chanho0908/">
+    <a href="https://chanho0908.notion.site/1977d4ccfd374eedb7cb69c904edd99d?pvs=4">
         <img src="https://img.shields.io/badge/Notion-00c9f2?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
 </div><br>
