@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Chanho's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ***
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={chanho-study}&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chanho0908&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanho0908&layout=compact&theme=tokyonight)
 
