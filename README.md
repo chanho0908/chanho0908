@@ -12,7 +12,10 @@
     <a href="https://chanho0908.notion.site/1977d4ccfd374eedb7cb69c904edd99d?pvs=4">
         <img src="https://img.shields.io/badge/Notion-00c9f2?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>    
-</div><br>
+</div><br>   
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={chanho-study}&postId={53})](https://github.com/loosie/github-readme-tistory-card)
+
 
 <div align=left><h1>📚STACK</h1></div>
 <div align=left> 
