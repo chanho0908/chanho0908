@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Chanho's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ***
-
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=chanho-study&postId=53&theme=santorini)](https://chanho-study.tistory.com/53)
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/chan_holololol">
@@ -13,9 +13,6 @@
         <img src="https://img.shields.io/badge/Notion-00c9f2?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>    
 </div><br>   
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={chanho-study}&postId={53})](https://github.com/loosie/github-readme-tistory-card)
-
 
 <div align=left><h1>📚STACK</h1></div>
 <div align=left> 
