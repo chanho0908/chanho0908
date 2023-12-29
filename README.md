@@ -1,5 +1,4 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=chanho-study&postId=53&theme=santorini)](https://chanho-study.tistory.com/53)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=chanho-study&postId=52&theme=santorini)](https://chanho-study.tistory.com/52)
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/chan_holololol">
