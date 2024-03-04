@@ -1,6 +1,6 @@
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=chanho-study&postId=98&theme=santorini)](https://chanho-study.tistory.com/98)
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=chanho-study&postId=97&theme=santorini)](https://chanho-study.tistory.com/97)
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=chanho-study&postId=82&theme=santorini)](https://chanho-study.tistory.com/82)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=chanho-study&postId=81&theme=santorini)](https://chanho-study.tistory.com/81)
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:chanho680526@gmail.com">
