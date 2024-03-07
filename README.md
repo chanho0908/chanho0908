@@ -1,10 +1,10 @@
 ## 📕 Blog 📕
 <h3>
+<a href="https://chanho-study.tistory.com/99">코틀린 코루틴의 정석, 두 걸음</a><br>     
 <a href="https://chanho-study.tistory.com/98">코틀린 코루틴의 정석, 첫 걸음</a><br> 
 <a href="https://chanho-study.tistory.com/97">MVVM 기본 다지기</a><br>
 <a href="https://chanho-study.tistory.com/82">Coroutine StateFlow</a><br> 
 <a href="https://chanho-study.tistory.com/81">Coroutine Flow</a><br> 
-<a href="https://chanho-study.tistory.com/78">Enum & SealedClass & Reflection</a><br> 
 </h3>
 
 ## 📞 Contact 📞
