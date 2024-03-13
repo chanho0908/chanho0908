@@ -1,4 +1,4 @@
-## 👩‍💻 Tech Blog 👩‍💻=
+## 👩‍💻 Tech Blog 👩‍💻
 <h3>
 <a href="https://chanho-study.tistory.com/100"><br>
 StateFlow가 중복된 값을 반환하지 않는 이유(DistinctUntilChanged)</a><br>
