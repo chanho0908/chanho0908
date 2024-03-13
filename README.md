@@ -15,8 +15,8 @@ StateFlow가 중복된 값을 반환하지 않는 이유(DistinctUntilChanged)</
     <a href="mailto:chanho680526@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-    <a href="https://chanho0908.notion.site/1977d4ccfd374eedb7cb69c904edd99d?pvs=4">
-        <img src="https://img.shields.io/badge/Notion-00c9f2?style=for-the-badge&logo=Notion&logoColor=white"> 
+    <a href="https://my.surfit.io/w/904429004">
+        <img src="https://img.shields.io/badge/Surfit-00c9f2?style=for-the-badge&logoColor=white"> 
     </a>
     <a href="https://chanho-study.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
