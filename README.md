@@ -5,7 +5,7 @@ StateFlow가 중복된 값을 반환하지 않는 이유(DistinctUntilChanged)</
 <a href="https://chanho-study.tistory.com/99">코틀린 코루틴의 정석, 두 걸음</a><br>     
 <a href="https://chanho-study.tistory.com/98">코틀린 코루틴의 정석, 첫 걸음</a><br> 
 <a href="https://chanho-study.tistory.com/97">MVVM 기본 다지기</a><br>
-    <a href="https://chanho-study.tistory.com/101">Coroutine StateFlow</a><br> 
+    <a href="https://chanho-study.tistory.com/101">Coroutine SharedFlow</a><br> 
 <a href="https://chanho-study.tistory.com/82">Coroutine StateFlow</a><br> 
 <a href="https://chanho-study.tistory.com/81">Coroutine Flow</a><br> 
 </h3>
