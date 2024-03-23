@@ -1,9 +1,7 @@
 ## 👩‍💻 Tech Blog 👩‍💻
 <h3>
-<a href="https://chanho-study.tistory.com/100"><br>
-StateFlow가 중복된 값을 반환하지 않는 이유(DistinctUntilChanged)</a><br>
-    <a href="https://chanho-study.tistory.com/104?category=1225486">코틀린 코루틴의 정석, 세 걸음</a><br>
-    
+<a href="https://chanho-study.tistory.com/100"><br>StateFlow가 중복된 값을 반환하지 않는 이유(DistinctUntilChanged)</a><br>
+<a href="https://chanho-study.tistory.com/104?category=1225486">코틀린 코루틴의 정석, 세 걸음</a><br>
 <a href="https://chanho-study.tistory.com/99">코틀린 코루틴의 정석, 두 걸음</a><br>     
 <a href="https://chanho-study.tistory.com/98">코틀린 코루틴의 정석, 첫 걸음</a><br> 
 <a href="https://chanho-study.tistory.com/97">MVVM 기본 다지기</a><br>
