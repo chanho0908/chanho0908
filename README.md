@@ -1,14 +1,8 @@
 ## 👩‍💻 Tech Blog 👩‍💻
 <h3>
-<a href="https://chanho-study.tistory.com/105">Room Like + StateFlow debouce와 Throttle</a>   
-<a href="https://chanho-study.tistory.com/100"><br>StateFlow가 중복된 값을 반환하지 않는 이유(DistinctUntilChanged)</a><br>
-<a href="https://chanho-study.tistory.com/104?category=1225486">코틀린 코루틴의 정석, 세 걸음</a><br>
-<a href="https://chanho-study.tistory.com/99">코틀린 코루틴의 정석, 두 걸음</a><br>     
-<a href="https://chanho-study.tistory.com/98">코틀린 코루틴의 정석, 첫 걸음</a><br> 
-<a href="https://chanho-study.tistory.com/97">MVVM 기본 다지기</a><br>
-    <a href="https://chanho-study.tistory.com/101">Coroutine SharedFlow</a><br> 
-<a href="https://chanho-study.tistory.com/82">Coroutine StateFlow</a><br> 
-<a href="https://chanho-study.tistory.com/81">Coroutine Flow</a><br> 
+<a href="https://chanho-study.tistory.com/110">객체지향의 꽃 다형성과 의존성 주입</a>   
+<a href="https://chanho-study.tistory.com/109"><br>FireBase Dependency Injection</a><br>
+<a href="https://chanho-study.tistory.com/108">Android Repository Pattern</a><br> 
 </h3>
 
 ## 📞 Contact 📞
