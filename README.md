@@ -5,6 +5,13 @@
 <a href="https://chanho-study.tistory.com/108">Android Repository Pattern</a><br> 
 </h3>
 
+## 🏆 Award
+      멋쟁이 사자처럼 안드로이드 앱 스쿨 2기(2024.01 ~2024.06)
+        ▷최우수상(다온길)🥇
+
+        
+
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:chanho680526@gmail.com">
