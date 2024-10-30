@@ -21,9 +21,6 @@
     <a href="mailto:chanho680526@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-    <a href="https://my.surfit.io/w/904429004">
-        <img src="https://img.shields.io/badge/Surfit-00c9f2?style=for-the-badge&logoColor=white"> 
-    </a>
     <a href="https://chanho-study.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>    
