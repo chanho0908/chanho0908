@@ -7,7 +7,7 @@
 
 ### 📌 Projects
 - Andorid - <a href="https://github.com/chanho0908/DaOnGil_CleanArchitecture">다온길</a> : 여행의 모든 문턱을 낮추다, 다온길
-- Andorid - <a href="https://github.com/GamSungPing/TOUCHEESE_AOS">터치즈</a> : 스튜디오와 사람을 잇다 : 사진 촬영 스튜디오 예약 서비스
+- Andorid - <a href="https://github.com/GamSungPing/TOUCHEESE_AOS">터치즈</a> : 스튜디오와 사람을 잇다 : 사진 촬영 스튜디오 예약 서비스
 
 ## 🏆 Award
       멋쟁이 사자처럼 안드로이드 앱 스쿨 2기(2024.01 ~2024.06)
