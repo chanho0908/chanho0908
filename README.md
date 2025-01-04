@@ -1,20 +1,17 @@
-## 👩‍💻 Tech Blog 👩‍💻
-<h3>
-<a href="https://chanho-study.tistory.com/134"><br>리사이클러뷰 성능 개선 일지 2편(부제 : DiffUtil Deep Dive)</a>     
-<a href="https://chanho-study.tistory.com/132"><br>리사이클러뷰 성능 개선 일지 1편(부제: Recyclerview Deep Dive)</a><br>      
-<a href="https://chanho-study.tistory.com/116">클린 아키텍처 도메인 레이어 설계</a><br>
-<a href="https://chanho-study.tistory.com/115">클린 아키텍처 마이그레이션</a><br>
-<a href="https://chanho-study.tistory.com/113">클린 아키텍처의 의존성 역전 원칙 원리</a><br>
-<a href="https://chanho-study.tistory.com/110">객체지향의 꽃 다형성과 의존성 주입</a>
-<a href="https://chanho-study.tistory.com/108">Android Repository Pattern</a><br> 
-</h3>
+### Latest Blog Article
++ <a href="https://chanho-study.tistory.com/157">(Android) clickable Ripple Effect Custom (MutableInteractionSource & Indication)</a>
++ <a href="https://chanho-study.tistory.com/156">(Android) Fragment에서 컴포즈를 사용해보자</a>
++ <a href="https://chanho-study.tistory.com/152">(Kotlin) Kotlin Value Class With Project Valhalla</a>
++ <a href="https://chanho-study.tistory.com/150">(Architecture) MVVM에서 MVI로</a>
++ <a href="https://chanho-study.tistory.com/150">(Android) Orbit DSL 뜯어보기</a>
+
+### 📌 Projects
+- Andorid - <a href="https://github.com/chanho0908/DaOnGil_CleanArchitecture">다온길</a> : 여행의 모든 문턱을 낮추다, 다온길
+- Andorid - <a href="https://github.com/GamSungPing/TOUCHEESE_AOS">터치즈</a> : 스튜디오와 사람을 잇다 : 사진 촬영 스튜디오 예약 서비스
 
 ## 🏆 Award
       멋쟁이 사자처럼 안드로이드 앱 스쿨 2기(2024.01 ~2024.06)
         ▷최우수상(다온길)🥇
-
-        
-
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
