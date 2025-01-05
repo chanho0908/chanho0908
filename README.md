@@ -3,7 +3,7 @@
 + <a href="https://chanho-study.tistory.com/156">(Android) Fragment에서 컴포즈를 사용해보자</a>
 + <a href="https://chanho-study.tistory.com/152">(Kotlin) Kotlin Value Class With Project Valhalla</a>
 + <a href="https://chanho-study.tistory.com/150">(Architecture) MVVM에서 MVI로</a>
-+ <a href="https://chanho-study.tistory.com/150">(Android) Orbit DSL 뜯어보기</a>
++ <a href="https://chanho-study.tistory.com/148">(Android) Orbit DSL 뜯어보기</a>
 
 ### 📌 Projects
 - Andorid - <a href="https://github.com/chanho0908/DaOnGil_CleanArchitecture">다온길</a> : 여행의 모든 문턱을 낮추다, 다온길
