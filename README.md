@@ -5,6 +5,12 @@
 + <a href="https://chanho-study.tistory.com/150">(Architecture) MVVM에서 MVI로</a>
 + <a href="https://chanho-study.tistory.com/148">(Android) Orbit DSL 뜯어보기</a>
 
+### 💮 Blog Challenge 
++ <a href="https://challenge.thdev.tech/2024-11-11-blog/">2024 연말 블로그 챌린지 1회차 </a>
++ <a href="https://challenge.thdev.tech/2024-11-24-blog/">2024 연말 블로그 챌린지 2회차 </a>
++ <a href="https://challenge.thdev.tech/2024-12-08-blog/">2024 연말 블로그 챌린지 3회차 </a>
++ <a href="https://challenge.thdev.tech/2024-11-23-blog/">2024 연말 블로그 챌린지 4회차 </a>
+
 ### 📌 Projects
 - Andorid - <a href="https://github.com/chanho0908/DaOnGil_CleanArchitecture">다온길</a> : 여행의 모든 문턱을 낮추다, 다온길
 - Andorid - <a href="https://github.com/GamSungPing/TOUCHEESE_AOS">터치즈</a> : 스튜디오와 사람을 잇다 : 사진 촬영 스튜디오 예약 서비스
