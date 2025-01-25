@@ -9,7 +9,7 @@
 + <a href="https://challenge.thdev.tech/2024-11-11-blog/">2024 연말 블로그 챌린지 1회차 </a>
 + <a href="https://challenge.thdev.tech/2024-11-24-blog/">2024 연말 블로그 챌린지 2회차 </a>
 + <a href="https://challenge.thdev.tech/2024-12-08-blog/">2024 연말 블로그 챌린지 3회차 </a>
-+ <a href="https://challenge.thdev.tech/2024-11-23-blog/">2024 연말 블로그 챌린지 4회차 </a>
++ <a href="https://challenge.thdev.tech/2024-12-23-blog/">2024 연말 블로그 챌린지 4회차 </a>
 
 ### 📌 Projects
 - Andorid - <a href="https://github.com/chanho0908/DaOnGil_CleanArchitecture">다온길</a> : 여행의 모든 문턱을 낮추다, 다온길
