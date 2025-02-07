@@ -1,10 +1,10 @@
 ### Latest Blog Article
++ <a href="https://chanho-study.tistory.com/160">(Kotlin) ViewModel의 One Time Event를 다루는 다양한 솔루션</a>
 + <a href="https://chanho-study.tistory.com/159">(Kotlin) Channel 내부 동작 분석을 분석해보자</a>
 + <a href="https://chanho-study.tistory.com/157">(Android) clickable Ripple Effect Custom (MutableInteractionSource & Indication)</a>
 + <a href="https://chanho-study.tistory.com/156">(Android) Fragment에서 컴포즈를 사용해보자</a>
 + <a href="https://chanho-study.tistory.com/152">(Kotlin) Kotlin Value Class With Project Valhalla</a>
 + <a href="https://chanho-study.tistory.com/150">(Architecture) MVVM에서 MVI로</a>
-+ <a href="https://chanho-study.tistory.com/148">(Android) Orbit DSL 뜯어보기</a>
 
 ### 💮 Blog Challenge 
 + <a href="https://challenge.thdev.tech/2024-11-11-blog/">2024 연말 블로그 챌린지 1회차 </a>
