@@ -1,7 +1,7 @@
 ### Latest Blog Article
 + <a href="https://chanho-study.tistory.com/161">(Compose) Compose LocalCollectAsStateCoroutineContext</a>
 + <a href="https://chanho-study.tistory.com/160">(Kotlin) ViewModel의 One Time Event를 다루는 다양한 솔루션</a>
-+ <a href="https://chanho-study.tistory.com/159">(Compose) Channel 내부 동작 분석을 분석해보자</a>
++ <a href="https://chanho-study.tistory.com/159">(Kotlin) Channel 내부 동작 분석을 분석해보자</a>
 + <a href="https://chanho-study.tistory.com/157">(Compose) clickable Ripple Effect Custom (MutableInteractionSource & Indication)</a>
 + <a href="https://chanho-study.tistory.com/156">(Compose) Fragment에서 컴포즈를 사용해보자</a>
 + <a href="https://chanho-study.tistory.com/152">(Kotlin) Kotlin Value Class With Project Valhalla</a>
