@@ -6,12 +6,6 @@
 + <a href="https://chanho-study.tistory.com/157">(Compose) clickable Ripple Effect Custom (MutableInteractionSource & Indication)</a>
 + <a href="https://chanho-study.tistory.com/152">(Kotlin) Kotlin Value Class With Project Valhalla</a>
 
-### 💮 Blog Challenge 
-+ <a href="https://challenge.thdev.tech/2024-11-11-blog/">2024 연말 블로그 챌린지 1회차 </a>
-+ <a href="https://challenge.thdev.tech/2024-11-24-blog/">2024 연말 블로그 챌린지 2회차 </a>
-+ <a href="https://challenge.thdev.tech/2024-12-08-blog/">2024 연말 블로그 챌린지 3회차 </a>
-+ <a href="https://challenge.thdev.tech/2024-12-23-blog/">2024 연말 블로그 챌린지 4회차 </a>
-
 <img src="https://github.com/user-attachments/assets/84038b32-098b-4068-aa03-05ff803726c7" width="3%"/><b> Woowacourse Archiving</b><br/>
 - <a href="https://chanho0908.notion.site/1970f436649f808ea0b4c81e06793909?v=1970f436649f8023bc4d000c1fc148cb">페토의 우테코 아카이빙</a>
 
