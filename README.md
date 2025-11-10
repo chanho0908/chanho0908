@@ -10,6 +10,7 @@
 - <a href="https://chanho0908.notion.site/1970f436649f808ea0b4c81e06793909?v=1970f436649f8023bc4d000c1fc148cb">페토의 우테코 아카이빙</a>
 
 ### 📌 Projects
+- Android - <a href="woowacourse-teams/2025-Todok-Todok">토독토독</a> : 개발자들을 위한 독서 기반 토론 서비스
 - Andorid - <a href="https://github.com/chanho0908/DaOnGil_CleanArchitecture">다온길</a> : 여행의 모든 문턱을 낮추다, 다온길
 - Andorid - <a href="https://github.com/GamSungPing/TOUCHEESE_AOS">터치즈</a> : 스튜디오와 사람을 잇다 : 사진 촬영 스튜디오 예약 서비스
 
