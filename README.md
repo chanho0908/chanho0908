@@ -1,7 +1,7 @@
 ### 🏢 Experience
 - <img src="https://github.com/user-attachments/assets/d3a46ea2-edc8-45b1-aad1-19dd35e7b992" width="20"/> **YAPP 26th Android Developer** (2025.11 ~ )  
 - <img src="https://github.com/user-attachments/assets/84038b32-098b-4068-aa03-05ff803726c7" width="20"/> **Woowacourse 7th Android** (2025.02 ~ 2025.11)  
-- <img src="https://github.com/user-attachments/assets/ea9c9fe3-899c-4e71-8caf-1d074f805b06" width="20"/> **Techit 2nd Android App School** (2024.01 ~ 2024.06)
+- <img src="https://github.com/user-attachments/assets/ea9c9fe3-899c-4e71-8caf-1d074f805b06" width="20"/> **Techit 2th Android App School** (2024.01 ~ 2024.06)
 
 ### 🚀 Projects
 - **[토독토독](woowacourse-teams/2025-Todok-Todok)**  : 개발자들을 위한 독서 기반 토론 서비스 
