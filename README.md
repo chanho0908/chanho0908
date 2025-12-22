@@ -13,9 +13,9 @@
 ###  Latest Blog Articles
 - [(CS) 프로세스와 스레드, 코루틴의 Context Switching의 차이](https://chanho-study.tistory.com/181)  
 - [(Architecture) 클린 아키텍처는 클린(Clean) 하지 않다.](https://chanho-study.tistory.com/180)  
-- [(AN) HiltViewModel 의존성 주입 원리](https://chanho-study.tistory.com/178)  
-- [(AN) 아주 쉽게 알아보는 뷰가 그려지기까지의 여정](https://chanho-study.tistory.com/176)
-- [(An) 안드로이드에서 네트워크 상태에 따라 API를 재호출해보자](https://chanho-study.tistory.com/173)  
+- [(Android) HiltViewModel 의존성 주입 원리](https://chanho-study.tistory.com/178)  
+- [(Android) 아주 쉽게 알아보는 뷰가 그려지기까지의 여정](https://chanho-study.tistory.com/176)
+- [(Android) 안드로이드에서 네트워크 상태에 따라 API를 재호출해보자](https://chanho-study.tistory.com/173)  
 
 ###  Woowacourse Archiving
 - [페토의 우테코 아카이빙](https://chanho0908.notion.site/1970f436649f808ea0b4c81e06793909?v=1970f436649f8023bc4d000c1fc148cb)   
