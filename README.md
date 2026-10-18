@@ -6,7 +6,7 @@
 - <img src="https://github.com/user-attachments/assets/ea9c9fe3-899c-4e71-8caf-1d074f805b06" width="20"/> **Techit 2th Android App School** (2024.01 ~ 2024.06)
 
 ### Projects
-- **[라맵](https://github.com/Ramap-Orgranization/Ramap-KMP)**  : 라오타가 만든 대한민국 라멘 지도
+- **[라멥](https://github.com/Ramap-Orgranization/Ramap-KMP)**  : 라오타가 만든 대한민국 라멘 지도
 
 - **[Keepiluv](https://github.com/YAPP-Github/Keepiluv-Android)**  : 서로를 원동력으로, 멈추지 않는 우리. keep it luv!
 
