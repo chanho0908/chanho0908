@@ -1,7 +1,9 @@
 ### Experience
+- <img src="https://github.com/user-attachments/assets/8293b677-4928-494c-a3b1-4537f50cfc00" width="20"/> **DroidNight 2026 Staff** (2026.11.2)  
 - <img src="https://github.com/user-attachments/assets/d3a46ea2-edc8-45b1-aad1-19dd35e7b992" width="20"/> **YAPP 29th 운영진(Mobile Lead)** (2026.09 ~ )  
 - <img src="https://github.com/user-attachments/assets/d3a46ea2-edc8-45b1-aad1-19dd35e7b992" width="20"/> **YAPP 28th 운영진(Android Lead)** (2026.03 ~ )  
-- <img src="https://github.com/user-attachments/assets/d3a46ea2-edc8-45b1-aad1-19dd35e7b992" width="20"/> **YAPP 27th Android Developer** (2025.11 ~ 2026.03)  
+- <img src="https://github.com/user-attachments/assets/d3a46ea2-edc8-45b1-aad1-19dd35e7b992" width="20"/> **YAPP 27th Android Developer** (2025.11 ~ 2026.03)
+- <img src="https://github.com/user-attachments/assets/8293b677-4928-494c-a3b1-4537f50cfc00" width="20"/> **DroidNight 2025 Staff** (2025.06.17)  
 - <img src="https://github.com/user-attachments/assets/84038b32-098b-4068-aa03-05ff803726c7" width="20"/> **Woowacourse 7th Android** (2025.02 ~ 2025.11)  
 - <img src="https://github.com/user-attachments/assets/ea9c9fe3-899c-4e71-8caf-1d074f805b06" width="20"/> **Techit 2th Android App School** (2024.01 ~ 2024.06)
 
